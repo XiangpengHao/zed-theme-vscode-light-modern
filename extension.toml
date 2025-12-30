@@ -1,6 +1,6 @@
 id = "vscode-light-modern-theme"
 name = "VSCode Light Modern Theme"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["Xiangpeng Hao (adapted from Microsoft's VSCode theme)"]
 description = "A port of Visual Studio Code's Light Modern theme for Zed"

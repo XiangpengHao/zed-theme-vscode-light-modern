@@ -2,6 +2,9 @@
 
 A faithful port of Visual Studio Code's "Light Modern" theme for the Zed editor.
 
+Adapted from: https://zed-themes.com/themes/edit
+(with some of my tweaks for Rust dev)
+
 ## Installation
 
 1. Open Zed
