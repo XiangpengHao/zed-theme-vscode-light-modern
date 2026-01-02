@@ -163,6 +163,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "lifetime": {
+            "color": "#267F99",
+            "font_style": null,
+            "font_weight": null
+          },
           "operator": {
             "color": "#000000",
             "font_style": null,
